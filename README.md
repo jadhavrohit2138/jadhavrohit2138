@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jadhavrohit2138
-- 👀 I’m interested in python language
-- 🌱 I’m currently learning flask,,fast and mysql
-- 💞️ I’m looking to collaborate on product base company
+- 👀 I’m interested in Javascript,python,java
+- 🌱 I’m currently learning Nodejs,bot-scripting and mysql
+- 💞️ I’m Working for NEC software solutions
 - 📫 How to reach me ...my insta id is @__r_j__99
 
 <!---
